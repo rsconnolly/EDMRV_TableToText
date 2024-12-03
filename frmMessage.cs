@@ -19,6 +19,7 @@ namespace TableToText
         }
         public string LabelText
         {
+            //Comment
             get
             {
                 return this.lblMessage.Text;
